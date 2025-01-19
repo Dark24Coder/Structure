@@ -16,15 +16,15 @@
 
 # src/assets 
 
-    Réservé pour tout ce qui a rapport aux dossiers contenant les feuilles de styles (Styles) et de js (Scripts). Chaque sous dossier de ces dossiers 
+    Réservé aux dossiers contenant les feuilles de styles (Styles css) et de script. Chaque feuilles de styles ou de scripts est classé dans le dossier qui lui est attribué (styles/button/Button.css)
 
 # src/components 
 
-    Réservé au différents composants réutilisables du site (bouton, input, navbar, etc ...) 
+    Réservé au différents composants réutilisables du site (bouton, input, navbar, etc ...)
+    
+# src/pages 
 
-# src/ pages 
+    Réservés aux différentes pages du sites (header, footer etc ....). Chaque page dans ce dossier à sont sous dossier dans lequel il n'y a que les éléments le concernant.
 
-    Réservés aux différentes pages du sites (header, footer etc ....)
-
-    Ceci est ma structure de base pour le moment je vais l'améliorer au fur et à mesure que d'autres trucs s'ajouterons et vos apports sont les meilleurs. Cela va s'appliquer au projets avec ou sans frameworks.
+    Ceci est ma structure de base que j'ai établi en fonction de mes quelques recherches et de mon peu d'expérience dans le domaine. Je vais l'améliorer au fur et à mesure que d'autres trucs s'ajouterons et vos apports sont les meilleurs. Cela va s'appliquer au projets avec ou sans frameworks.
 
